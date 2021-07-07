@@ -1,5 +1,5 @@
 {
-  "name": "google-books",
+  "name": "react-google-book-search",
   "version": "1.0.0",
   "description": "Google Books",
   "main": "server.js",
