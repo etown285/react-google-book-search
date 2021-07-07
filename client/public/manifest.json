@@ -1,0 +1,9 @@
+{
+    "short_name": "React Book Search",
+    "name": "The React Google Book Search App",
+    "icons": [],
+    "start_url": "./index.html",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
