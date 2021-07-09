@@ -16,7 +16,7 @@ An application that allows users to search for their favorite books and store th
 
 ## Usage
 
-![Screenshot]()
+![Screenshot](https://github.com/etown285/react-google-book-search/blob/main/client/src/utils/images/googlebookgif.gif)
 
 ## Links
 
